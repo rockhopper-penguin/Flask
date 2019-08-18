@@ -1,6 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap');
 body {
-    width: 80%;
-    margin: auto;
-    font-family: 'Noto Sans JP', sans-serif;
+	width: 80%;
+	margin: auto;
+	font-family: 'Noto Sans JP', sans-serif;
+}
+body a {
+	text-decoration: none;
+}
+form p:last-child {
+	text-align: center;
 }
